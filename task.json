@@ -1,0 +1,44 @@
+{
+    "personal_info": {
+      "first_name": "karthik",
+      "last_name": "k",
+      "email": "kskarthik2000@email.com",
+      "phone": "8754922363",
+      "address": "31/1 North Street, Nalatinputhur, Tamilnadu-628716 "
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Engineering",
+        "university": "Anna university",
+        "graduation_date": "May 2022"
+      }
+    ],
+    "work_experience": [
+      {
+        "job_title": "Software Engineer",
+        "company": "Cognizant Technolgy Solution",
+        "start_date": "june 2022",
+        "end_date": "Present",
+        "responsibilities": [
+          "Developing and maintaining software applications.",
+          "Collaborating with cross-functional teams to deliver projects on time.",
+          "Debugging and resolving software defects."
+        ]
+      }
+      
+    ],
+    "skills": [
+      "Programming languages: Java, Python, JavaScript",
+      "Web development: HTML, CSS, React",
+      "Database management: SQL",
+      "Problem-solving and debugging skills"
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Native"
+      }
+      
+    ]
+  }
+  
